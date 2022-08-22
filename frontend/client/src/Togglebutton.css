@@ -1,0 +1,38 @@
+.toggle-select {
+    height: 40px;
+    width: 300px;
+    /* margin-left: 20%; */
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    background-color:green;
+    color: black;
+    border-radius: 10px;
+    /* display: inline; */
+  }
+  
+  .toggle-unselect {
+    height: 40px;
+    width: 300px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: none;
+    font-size: 15px;
+    font-weight: light;
+    background-color: offwhite;
+    color: black;
+    border-radius: 10px;
+    /* display: inline; */
+  }
+
+  .diff-category {
+    display: block;
+    /* height: 70px; */
+  }
+
+  .same-category{
+    display: inline;
+    /* height: 20px; */
+  }
